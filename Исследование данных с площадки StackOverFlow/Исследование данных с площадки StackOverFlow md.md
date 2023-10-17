@@ -14,8 +14,3 @@ SQL - запросы, вложенные запросы, временные та
 
 ![image.png](attachment:image.png)
 
-
-
-```python
-
-```
