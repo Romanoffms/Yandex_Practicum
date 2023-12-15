@@ -55,5 +55,5 @@
 
 
 ### Схема данных
+<image src="https://pictures.s3.yandex.net/resources/scheme_1589269096.png" alt="Описание картинки">
 
-![image.png](attachment:image.png)
